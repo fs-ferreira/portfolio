@@ -1,3 +1,6 @@
+## Live Code
+This project was published on github pages. Access on [Portfolio](https://fs-ferreira.github.io/portfolio)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
