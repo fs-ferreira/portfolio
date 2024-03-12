@@ -70,7 +70,7 @@ export default function Contact() {
           </div>
           <button type="submit"
             className="mt-5 text-center border-2 border-violet-400 text-violet-800/80 rounded p-3 font-medium sm:w-1/5
-            disabled:border-zinc-300"
+            disabled:border-zinc-300 hover:bg-violet-400 transition-all hover:text-violet-100"
             disabled={loading}
           >
             {loading
