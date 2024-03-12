@@ -27,8 +27,8 @@ export default function Contact() {
       reset();
       toast.success('Message sent! Thanks for the contact.')
     },
-      (err) => {
-        toast.success('Something gone wrong! Please try later.')
+      () => {
+        toast.error('Something gone wrong! Please try later.')
       }
     ).finally(() => setLoading(false))
   }
