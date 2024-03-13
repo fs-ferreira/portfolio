@@ -23,7 +23,7 @@ export default function SkillsSection() {
     'RabbitMQ',
     'AWS',
     'Scrum',
-    'Kanabn',
+    'Kanban',
     'Python',
     'Design Patterns',
     'CI/CD',
