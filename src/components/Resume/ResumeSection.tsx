@@ -32,7 +32,7 @@ export default function ResumeSection() {
             <LibraryBig size={36} />
           </ResumeTitle>
           <div className="overflow-y-auto md:h-[60vh]">
-            <ResumeItem date="01/2024" title="Fullstack project with NodeJS, Reac and React Native" description="Udemy Brasil" />
+            <ResumeItem date="01/2024" title="Fullstack project with NodeJS, React and React Native" description="Udemy Brasil" />
             <ResumeItem date="02/2024" title="Microservices from Scratch with Spring Cloud, Spring Boot, and Docker" description="Udemy Brasil" />
             <ResumeItem date="02/2024" title="Unit Testing from Scratch with Angular 14 / Jasmine and Karma" description="Udemy Brasil" />
             <ResumeItem date="01/2024" title="NLW Expert React Track" description="Rocketseat" />
