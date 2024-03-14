@@ -15,7 +15,7 @@ export default function Home() {
       <p className='text-lg text-violet-200/60'>Software Developer</p>
       <div className="flex gap-2 item">
         <Button className='border-none bg-violet-800'>
-          <a href="https://www.linkedin.com/in/felipe-ferreira-ab6a8b199/" target='_blank' tabIndex={-1}>
+          <a href="https://www.linkedin.com/in/fs-ferreiraa/" target='_blank' tabIndex={-1}>
             <Linkedin size={28} />
           </a>
         </Button>
